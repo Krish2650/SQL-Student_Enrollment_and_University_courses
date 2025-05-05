@@ -1,2 +1,2 @@
 # SQL-Student_Enrollment_and_University_courses
-Developed a SQL database system for managing student enrollments and courses, designing tables, relationships, and queries to efficiently handle records and enrollment data, improving performance and user experience.
+Developed a comprehensive SQL database system for managing student enrollments and university courses. Designed and implemented tables, relationships, and queries to efficiently organize and retrieve course information, student records, and enrollment data. Demonstrated strong problem-solving and analytical skills, resulting in optimized database performance and enhanced user experience
